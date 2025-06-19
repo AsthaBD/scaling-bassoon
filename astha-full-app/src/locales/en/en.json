@@ -1,0 +1,11 @@
+
+{
+  "header": { "about": "About", "services": "Services", "contact": "Contact" },
+  "hero": {
+    "title": "Empowering Communities,",
+    "subtitle": "Transforming Lives",
+    "description": "We provide accessible microfinance services to help individuals build sustainable livelihoods.",
+    "contact": "Contact Us",
+    "learn": "Learn More"
+  }
+}
